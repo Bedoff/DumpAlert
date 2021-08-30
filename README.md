@@ -1,6 +1,7 @@
 # DumpAlert
 
 Ne zaman pozisyon açık uykuya dalsam btc dump yer ve ben yine zararlı çıkarım
+
 Sanırım buna bir dur deme zamanı geldi
 
 Test video
